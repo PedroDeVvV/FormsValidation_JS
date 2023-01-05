@@ -62,7 +62,7 @@ class ValidaFormulario {
 
         if (camposValidos && senhasValidas) {
             alert('Formulário enviado., parabéns, todas as informações estão corretas');
-            this.handleSubmit(e);
+            location.reload();
         }
     }
 
