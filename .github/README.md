@@ -23,14 +23,15 @@
 🔗[Clique aqui para acessar](https://pedrodevvv.github.io/Timer-JS/)<br> 
 
 <hr>
-## 🛠️Tecnologias
+
+<h3>🛠️Tecnologias utilizadas</h3>
 
 * JavaScript
 * HTML
 * CSS
 * Visual Studio Code
 <hr>
-## 📞 Contato
+<h3>📞 Contato</h3>
 
 📩E-mail: pedrohgs2004@gmail.com <br>
 🌐Linkedin: https://www.linkedin.com/in/pedro-henrique-g-silva-a2100a23a/?originalSubdomain=br
