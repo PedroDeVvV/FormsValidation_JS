@@ -16,8 +16,8 @@ class ValidaFormulario {
         const senhasValidas = this.senhasSaoValidas();
 
         if (camposValidos && senhasValidas) {
-            alert('Formulário enviado.');
-            location.reload();
+            alert('Formulário enviado., parabéns, todas as informações estão corretas');
+            // location.reload();
         }
     }
 
