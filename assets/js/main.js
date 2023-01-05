@@ -35,7 +35,7 @@ class ValidaFormulario {
 
         if (senha.value.length < 6 || senha.value.length > 12) {
             valid = false;
-            this.criaErro(senha, 'A senha precisa estar entre 6 e 12 caracteres.');
+            this.criaErro(senha, 'Senha precisa estar entre 6 e 12 caracteres.');
         }
 
         return valid;
