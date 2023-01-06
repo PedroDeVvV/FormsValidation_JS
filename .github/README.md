@@ -12,14 +12,14 @@
 <hr>
 <h3>⚙️Funcionamento Geral</h3>
 
-![preview](./validacao.gif)<br>
+![preview](./principal.gif)<br>
 🔗[Clique aqui para acessar](https://pedrodevvv.github.io/Formulario_validacao_JS/)<br> 
 
 <hr>
 <h2>Como funciona a validação do CPF ?</h2>
-<p>Para realizar está validação, foi desenvolvido um algorítmo que segue algumas regras dispostas pela receita federal para realizar essa validação. Basta somar os 9 primeiros dígitos do CPF, após isso essa soma será colocada em uma formula: 11 - (X % 11), e deve retornar um número, caso o número seja maior que 9 consideramos 0. Agora incluiremos esse digito junto aos 9 primeiros do CPF original, realizada a soma novamente e também a mesma conta com o resultado desta soma: 11 - (X % 11), mais uma vez devemos considerar 0 caso o resultado seja maior que 9, agora basta comparar esses 2 números gerados com os 2 ultimos números do CPF original e saberemos se é um CPF válido ou não. Este algoritmo foi desenvolvido também utilizando classes para sua construção, sendo chamado por um método no código da validação do formulário</p>
+<p>Para realizar está validação, foi desenvolvido um algorítmo que segue algumas regras dispostas pela receita federal para realizar essa validação. Basta somar os 9 primeiros dígitos do CPF, após isso essa soma será colocada em uma formula: 11 - (X % 11), e deve retornar um número, caso o número seja maior que 9 consideramos 0. Agora incluiremos esse digito junto aos 9 primeiros do CPF original, realizada a soma novamente e também a mesma conta com o resultado desta soma: 11 - (X % 11), mais uma vez devemos considerar 0 caso o resultado seja maior que 9, agora basta comparar esses 2 números gerados com os 2 ultimos números do CPF original e saberemos se é um CPF válido ou não. Este algoritmo foi desenvolvido em um arquivo separado, também utilizando classes para sua construção, sendo chamado por um método no código da validação do formulário</p>
 
-![preview](./validacao2.gif)<br>
+![preview](./validacao.gif)<br>
 🔗[Clique aqui para acessar](https://pedrodevvv.github.io/Formulario_validacao_JS/)<br> 
 
 <hr>
